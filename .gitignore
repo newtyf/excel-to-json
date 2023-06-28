@@ -1,3 +1,7 @@
 /env
-/agencias.xlsx
+*.xlsx
 /data.json
+
+.vscode
+setup.py
+.pypirc
